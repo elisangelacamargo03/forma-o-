@@ -4,6 +4,7 @@ body{
     background-color: black;
     color:white;
     margin: 0;
+    background-image: url(fund jpg);
 }
 
 h1{
@@ -24,4 +25,5 @@ p{
 #gato{
     width: 200px;
     margin-left: 400px;
+    padding: 40;
 }
